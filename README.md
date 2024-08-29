@@ -1,3 +1,2 @@
 # Hello!
-[Main Account](https://github.com/s4300)\
-[Geometry Dash](https://gdbrowser.com/u/spinn0)
+This is my alt GitHub account. Main is [@s4300](https://github.com/s4300)
